@@ -1,0 +1,25 @@
+c:\users\io\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\io\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\io\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\io\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\io\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\io\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\mscorlib.dll
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\it\mscorlib.resources.dll
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\normidna.nlp
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\normnfc.nlp
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\normnfd.nlp
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\normnfkc.nlp
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\bin\Debug\normnfkd.nlp
+C:\Users\aula10\Desktop\git marchiori\mergesortmarchiori\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\io\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\io\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\io\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\io\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\io\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\io\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
